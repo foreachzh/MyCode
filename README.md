@@ -6,4 +6,4 @@
 
 //2016-12-02:duilib简明教程：http://blog.csdn.net/cometnet/article/details/12448339；还有就是ice中间件。glacier2的使用；
 
-//同一段代码不能写两遍
+//2016-12-04:同一段代码不能写两遍
